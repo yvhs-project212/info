@@ -4,6 +4,7 @@
 
 * [General Info](#general-info)
 * [Lectures](#lectures)
+* [Resources](#resources)
 * [Advanced Topics](#advanced-topics)
 
 # General Info
@@ -21,6 +22,10 @@
 * [Sensors](https://docs.google.com/presentation/d/1edzdk25cER7eBLLe8bjvOVUNnkz2Rg0MBEm7e6BNTBE)
 * [State Machines](https://docs.google.com/presentation/d/188ah1qLk1MXfLUT9RrQoQxYx9bPT7TLTmnOWu3XywwY)
 * [PID Controllers](https://docs.google.com/presentation/d/1TWqlDrRdXPt4WUgUEaVc2EeqV3wh21ap6-1PjhoWNss)
+
+# Resources
+
+* [Zero-To-Autonomous YouTube channel](https://www.youtube.com/@0ToAuto)
 
 
 # Advanced Topics
