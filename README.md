@@ -4,6 +4,7 @@
 
 * [General Info](#general-info)
 * [Lectures](#lectures)
+* [Advanced Topics](#advanced-topics)
 
 # General Info
 
@@ -18,7 +19,7 @@
 * [Revision Control With GitHub](https://docs.google.com/presentation/d/14rW4-D6LEyFfHZGEq53qw-T-xRjkof4poaztPtHzmYM)
 * [Programming Reminders](https://docs.google.com/presentation/d/1nIV1W4d8-eIM77dIYYf82ZvSLB7xXGajEhS7VK5WGD0)
 * [Sensors](https://docs.google.com/presentation/d/1edzdk25cER7eBLLe8bjvOVUNnkz2Rg0MBEm7e6BNTBE)
-* [State Machines](https://docs.google.com/presentation/d/188ah1qLk1MXfLUT9RrQoQxYx9bPT7TLTmnOWu3XywYw)
+* [State Machines](https://docs.google.com/presentation/d/188ah1qLk1MXfLUT9RrQoQxYx9bPT7TLTmnOWu3XywwY)
 * [PID Controllers](https://docs.google.com/presentation/d/1TWqlDrRdXPt4WUgUEaVc2EeqV3wh21ap6-1PjhoWNss)
 
 
