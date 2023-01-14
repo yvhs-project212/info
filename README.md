@@ -26,6 +26,8 @@
 # Resources
 
 * [Zero-To-Autonomous YouTube channel](https://www.youtube.com/@0ToAuto)
+* [FRC Programming Done Right](https://frc-pdr.readthedocs.io/en/latest/)
+* [3468 FRC Java Programming Resource Compendium](https://docs.google.com/document/d/1jcBLAyJ3iTbsYSnWMVWqHaK8uywGTaTjF98eY_xxpl0/edit?usp=drivesdk)
 
 
 # Advanced Topics
