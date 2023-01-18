@@ -5,6 +5,7 @@
 * [General Info](#general-info)
 * [Lectures](#lectures)
 * [Resources](#resources)
+* [Vendor Docs](#vendor-docs)
 * [Advanced Topics](#advanced-topics)
 
 # General Info
@@ -26,10 +27,22 @@
 
 # Resources
 
+* WPILib docs
+  * [Zero-To-Robot](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html)
+  * [Java API docs](https://github.wpilib.org/allwpilib/docs/release/java/index.html)
+  * [IMUs, accelerometers, gyros](https://docs.wpilib.org/en/stable/docs/hardware/sensors/accelerometers-hardware.html)
+  * [Shuffleboard](https://docs.wpilib.org/en/stable/docs/software/dashboards/shuffleboard/index.html)
+  * [RoboRIO built-in accelerometer](https://github.wpilib.org/allwpilib/docs/release/java/edu/wpi/first/wpilibj/BuiltInAccelerometer.html)
 * [Zero-To-Autonomous YouTube channel](https://www.youtube.com/@0ToAuto)
 * [FRC Programming Done Right](https://frc-pdr.readthedocs.io/en/latest/)
 * [3468 FRC Java Programming Resource Compendium](https://docs.google.com/document/d/1jcBLAyJ3iTbsYSnWMVWqHaK8uywGTaTjF98eY_xxpl0/edit?usp=drivesdk)
 
+# Vendor Docs
+
+* [CTR Talon sensor docs](https://docs.ctre-phoenix.com/en/stable/ch14_MCSensor.html#sensor-check-with-motor-drive)
+* [Kaua'i Labs NavX gyro/accelerometer docs](https://pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/)
+  * [Java docs](https://pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/java/)
+  * [Java API docs](https://www.kauailabs.com/public_files/navx-mxp/apidocs/java/com/kauailabs/navx/frc/package-summary.html)
 
 # Advanced Topics
 
