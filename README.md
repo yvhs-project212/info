@@ -39,6 +39,7 @@
 
 # Vendor Docs
 
+* [CTR Talon FX Java docs](https://store.ctr-electronics.com/content/api/java/html/classcom_1_1ctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_w_p_i___talon_f_x.html)
 * [CTR Talon sensor docs](https://docs.ctre-phoenix.com/en/stable/ch14_MCSensor.html#sensor-check-with-motor-drive)
 * [Kaua'i Labs NavX gyro/accelerometer docs](https://pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/)
   * [Java docs](https://pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/java/)
