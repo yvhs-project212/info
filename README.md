@@ -28,6 +28,10 @@
 
 # Resources
 
+* Project 212 docs
+  * [2023-2024 season lessons](https://drive.google.com/drive/u/0/folders/1UCzawlkCeYbVPN43eBV_YX74iJ5eOhIk)
+  * [How to modify swervepy's example code for our usage](https://docs.google.com/document/d/18B_sIGzRrTJ_hJSeFyINPaW6nLl52noYnxtb7q7a6Jw/edit)
+
 * WPILib docs
   * [Zero-To-Robot](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html)
   * [Java API docs](https://github.wpilib.org/allwpilib/docs/release/java/index.html)
