@@ -29,6 +29,7 @@
 # Resources
 
 * Project 212 docs
+  * [How to set up the VH-109 wifi radio](https://docs.google.com/document/d/1LnXxjMaiQwAJjETuyxhupljU331yZ-olZqXauiBAFKQ/)
   * [2023-2024 season lessons](https://drive.google.com/drive/u/0/folders/1UCzawlkCeYbVPN43eBV_YX74iJ5eOhIk)
   * [How to modify swervepy's example code for our usage](https://docs.google.com/document/d/18B_sIGzRrTJ_hJSeFyINPaW6nLl52noYnxtb7q7a6Jw/edit)
 
