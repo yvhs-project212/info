@@ -28,6 +28,8 @@
 
 # Resources
 
+* Python docs
+  * [RobotPy documentation](https://robotpy.readthedocs.io/projects/robotpy/en/stable/)
 * Project 212 docs
   * [How to set up the VH-109 wifi radio](https://docs.google.com/document/d/1LnXxjMaiQwAJjETuyxhupljU331yZ-olZqXauiBAFKQ/)
   * [2023-2024 season lessons](https://drive.google.com/drive/u/0/folders/1UCzawlkCeYbVPN43eBV_YX74iJ5eOhIk)
@@ -35,13 +37,11 @@
 
 * WPILib docs
   * [Zero-To-Robot](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html)
-  * [Java API docs](https://github.wpilib.org/allwpilib/docs/release/java/index.html)
   * [IMUs, accelerometers, gyros](https://docs.wpilib.org/en/stable/docs/hardware/sensors/accelerometers-hardware.html)
   * [Shuffleboard](https://docs.wpilib.org/en/stable/docs/software/dashboards/shuffleboard/index.html)
   * [RoboRIO built-in accelerometer](https://github.wpilib.org/allwpilib/docs/release/java/edu/wpi/first/wpilibj/BuiltInAccelerometer.html)
 * [Zero-To-Autonomous YouTube channel](https://www.youtube.com/@0ToAuto)
 * [FRC Programming Done Right](https://frc-pdr.readthedocs.io/en/latest/)
-* [3468 FRC Java Programming Resource Compendium](https://docs.google.com/document/d/1jcBLAyJ3iTbsYSnWMVWqHaK8uywGTaTjF98eY_xxpl0/edit?usp=drivesdk)
 
 # Vendor Docs
 
@@ -55,3 +55,8 @@
 
 * [Virtual Machine Setup](https://docs.google.com/document/d/1TMoh7gfz75P1aVRW1Yh-VMBHgyPp3soa9HnYXnTlWvM)
 * [Project 212 Google Drive](https://drive.google.com/drive/u/0/folders/1t14xoKedZP22BZpNTtfo5nXJAymCEM60)
+
+
+# Obsolete
+* [Java API docs](https://github.wpilib.org/allwpilib/docs/release/java/index.html)
+* [3468 FRC Java Programming Resource Compendium](https://docs.google.com/document/d/1jcBLAyJ3iTbsYSnWMVWqHaK8uywGTaTjF98eY_xxpl0/edit?usp=drivesdk)
