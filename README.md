@@ -28,6 +28,10 @@
 
 # Resources
 
+* Software tools
+  * [REV Hardware Client](https://docs.revrobotics.com/rev-hardware-client)
+  * [Phoenix Tuner](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases)
+
 * Python docs
   * [RobotPy documentation](https://robotpy.readthedocs.io/projects/robotpy/en/stable/)
 * Project 212 docs
