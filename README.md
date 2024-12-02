@@ -29,6 +29,9 @@
 # Resources
 
 * Software tools
+  * [RobotPy documentation](https://robotpy.readthedocs.io/projects/robotpy/en/latest/)
+    * [Phoenix 6 library documentation](https://api.ctr-electronics.com/phoenix6/release/python/index.html)
+      * [Software documentation for TalonFX class](https://api.ctr-electronics.com/phoenix6/release/python/autoapi/phoenix6/hardware/core/core_talon_fx/index.html#phoenix6.hardware.core.core_talon_fx.CoreTalonFX)
   * [REV Hardware Client](https://docs.revrobotics.com/rev-hardware-client)  (For SparkMAX motor controllers, PDHes, and other REV products)
   * [Phoenix 6 libraries](https://v6.docs.ctr-electronics.com/en/latest/docs/installation/installation-frc.html)  (For TalonFX motor controllers (used in Kraken and Falcon motors); also installs Phoenix Tuner X)
   * [Phoenix Tuner X](https://v6.docs.ctr-electronics.com/en/latest/docs/tuner/index.html)  (documentation)
