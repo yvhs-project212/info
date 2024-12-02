@@ -29,15 +29,18 @@
 # Resources
 
 * Software tools
-  * [RobotPy documentation](https://robotpy.readthedocs.io/projects/robotpy/en/latest/)
-    * [Phoenix 6 library documentation](https://api.ctr-electronics.com/phoenix6/release/python/index.html)
-      * [Software documentation for TalonFX class](https://api.ctr-electronics.com/phoenix6/release/python/autoapi/phoenix6/hardware/core/core_talon_fx/index.html#phoenix6.hardware.core.core_talon_fx.CoreTalonFX)
-  * [REV Hardware Client](https://docs.revrobotics.com/rev-hardware-client)  (For SparkMAX motor controllers, PDHes, and other REV products)
-  * [Phoenix 6 libraries](https://v6.docs.ctr-electronics.com/en/latest/docs/installation/installation-frc.html)  (For TalonFX motor controllers (used in Kraken and Falcon motors); also installs Phoenix Tuner X)
+  * [REV Hardware Client](https://docs.revrobotics.com/rev-hardware-client)  (For configuring SparkMAX motor controllers, PDHes, and other REV products)
+  * [Installing Phoenix 6 libraries](https://v6.docs.ctr-electronics.com/en/latest/docs/installation/installation-frc.html)  (For TalonFX motor controllers (used in Kraken and Falcon motors); also installs Phoenix Tuner X)
   * [Phoenix Tuner X](https://v6.docs.ctr-electronics.com/en/latest/docs/tuner/index.html)  (documentation)
 
 * Python docs
   * [RobotPy documentation](https://robotpy.readthedocs.io/projects/robotpy/en/stable/)
+    * [WPILib library documentation](https://robotpy.readthedocs.io/projects/robotpy/en/latest/wpilib.html) (for common sensors and actuators, but not most motors we use)
+    * [Phoenix 6 library documentation](https://api.ctr-electronics.com/phoenix6/release/python/index.html) (for TalonFX-based motors, etc.)
+      * [Software documentation for TalonFX class](https://api.ctr-electronics.com/phoenix6/release/python/autoapi/phoenix6/hardware/core/core_talon_fx/index.html#phoenix6.hardware.core.core_talon_fx.CoreTalonFX)
+    * [NavX library documentation](https://robotpy.readthedocs.io/projects/navx/en/latest/api.html)
+    * [REVLib library documentation](https://robotpy.readthedocs.io/projects/rev/en/latest/rev.html) (for SparkMAX-based motors, etc.)
+
 * Project 212 docs
   * [How to set up the VH-109 wifi radio](https://docs.google.com/document/d/1LnXxjMaiQwAJjETuyxhupljU331yZ-olZqXauiBAFKQ/)
   * [2023-2024 season lessons](https://drive.google.com/drive/u/0/folders/1UCzawlkCeYbVPN43eBV_YX74iJ5eOhIk)
