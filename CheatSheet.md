@@ -10,7 +10,7 @@
   about to type the name of a file or directory, type only as much as you need
   to make it unambiguous, and then hit TAB.  git-bash will finish typing it
   for you!
-* <pre>cd ***NewDirectory***`</pre>
+* <pre>cd <b><i>NewDirectory</i></b>`</pre>
   Change directory to ***NewDirectory***.  ***NewDirectory*** will now be the
   working directory, if it exists.  (If you made a typo and ***NewDirectory***
   doesn't exist, you stay in the old directory.  Look at the output!)  If you
@@ -32,15 +32,15 @@
 * <pre>pwd</pre>
   Print the working directory.  ("Where am I?")  This command doesn't take
   any parameters.
-* <pre>mkdir ***NewDirectory***</pre>
+* <pre>mkdir <b><i>NewDirectory</i></b></pre>
   Make a new directory called ***NewDirectory***.  If ***NewDirectory***
   doesn't start with a slash, then it's created in a location relative to
   the working directory.
-* <pre>rm ***JunkFileName***</pre>
+* <pre>rm <b><i>JunkFileName</i></b></pre>
   Remove (delete) the file named ***JunkFileName***.  BE CAREFUL!  There is
   no trash can or recycling bin -- this can't be undone!  (Unless the file
   has been committed in Git.)
-* <pre>rmdir ***JunkDirectoryName***</pre>
+* <pre>rmdir <b><i>JunkDirectoryName</i></b></pre>
   Remove (delete) the directory named ***JunkDirectoryName***.  That directory
   must be empty, or the `rmdir` command will fail.
   
