@@ -28,6 +28,11 @@
 
 # Resources
 
+* Cheat Sheets
+  * [Shell commands](https://github.com/yvhs-project212/info/blob/main/CheatSheet.md#shell-commands) (used in git-bash, things like `cd`, `ls`, etc.)
+  * [Robotpy commands](https://github.com/yvhs-project212/info/blob/cheatsheet/CheatSheet.md#robotpy-commands) (run from git-bash, these start with `py -3 -m robotpy --main code **XXXXX**`)
+  * [Git commands lecture](https://docs.google.com/presentation/d/14rW4-D6LEyFfHZGEq53qw-T-xRjkof4poaztPtHzmYM/edit?slide=id.g15ad6a41f33_0_56#slide=id.g15ad6a41f33_0_56) (cheat sheet included)
+
 * Software tools
   * [REV Hardware Client](https://docs.revrobotics.com/rev-hardware-client)  (For configuring SparkMAX motor controllers, PDHes, and other REV products)
   * [Installing Phoenix 6 libraries](https://v6.docs.ctr-electronics.com/en/latest/docs/installation/installation-frc.html)  (For TalonFX motor controllers (used in Kraken and Falcon motors); also installs Phoenix Tuner X)
