@@ -10,7 +10,7 @@
   about to type the name of a file or directory, type only as much as you need
   to make it unambiguous, and then hit TAB.  git-bash will finish typing it
   for you!
-* `cd ***NewDirectory***`
+* <pre>cd ***NewDirectory***`</pre>
   Change directory to ***NewDirectory***.  ***NewDirectory*** will now be the
   working directory, if it exists.  (If you made a typo and ***NewDirectory***
   doesn't exist, you stay in the old directory.  Look at the output!)  If you
@@ -20,7 +20,7 @@
 
   If your working directory is `/c/Users/Jon/repos` and you type `cd ..`,
   then your new working directory is `/c/Users/Jon` -- do you understand why?
-* `ls`
+* <pre>ls</pre>
   List files and directories.  With no parameters, it lists everything in the
   working directory.  You can give `ls` any number of files or directories
   as parameters, and it will list only those.  You can also give `ls`
@@ -29,25 +29,27 @@
 
   `ls ..` will list everything in the parent directory of your
   working directory.
-* `pwd`
+* <pre>pwd</pre>
   Print the working directory.  ("Where am I?")  This command doesn't take
   any parameters.
-* `mkdir ***NewDirectory***`
+* <pre>mkdir ***NewDirectory***</pre>
   Make a new directory called ***NewDirectory***.  If ***NewDirectory***
   doesn't start with a slash, then it's created in a location relative to
   the working directory.
-* `rm ***JunkFileName***`
+* <pre>rm ***JunkFileName***</pre>
   Remove (delete) the file named ***JunkFileName***.  BE CAREFUL!  There is
   no trash can or recycling bin -- this can't be undone!  (Unless the file
   has been committed in Git.)
-* `rmdir ***JunkDirectoryName***`
+* <pre>rmdir ***JunkDirectoryName***</pre>
   Remove (delete) the directory named ***JunkDirectoryName***.  That directory
   must be empty, or the `rmdir` command will fail.
   
 
 # Robotpy Commands
 
-* All robotpy commands start with the following:```
-  py -3 -m robotpy --main code ...```
+* All robotpy commands start with the following:
+```
+  py -3 -m robotpy --main code ...
+```
   Depending on what you want robotpy to do, other stuff goes where the `...`
   appears above.
