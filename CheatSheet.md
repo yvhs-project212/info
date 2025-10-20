@@ -2,9 +2,9 @@
 
 # Shell Commands
 
-* Remember that *directories* are another name for folders.  "." (a single
+* Remember that *directories* are another name for folders.  `.` (a single
   period, usually pronounced "dot") means "the directory you're currently in",
-  and ".." ("dot-dot") means "the directory that *contains* the directory
+  and `..` ("dot-dot") means "the directory that *contains* the directory
   you're currently in" (known as the *parent directory*).
 * Save yourself some typing by using *tab completion*!  In git-bash, if you're
   about to type the name of a file or directory, type only as much as you need
